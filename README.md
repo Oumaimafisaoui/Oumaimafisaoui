@@ -35,8 +35,8 @@
 - [ ] Finish my Portfolio.
 - [ ] Algorithms and data structures Specialization
 - [ ] Launch my Blog site
-- [ ] Finsih #100DaysOfCode
-- [ ] Finish C Specialization
+- [X] Finsih #100DaysOfCode
+- [X] Finish C Specialization
 - [X] Finish MERN Development course
 - [x] Finish Laravel / Vue.js Course
 - [ ] Finish CS50xHarvard 2021
