@@ -9,7 +9,7 @@
  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
  
  <div>
-   <p>I'm an aspiring full stack engineer.</p>
+   <p>I'm an aspiring full stack engineer, and a computer science student at both UoPeople and NJPUT 💜</p>
  </div>
    
  <h2>Welcome to my Github account where you will find the folowing topics (and more):</h2>  
