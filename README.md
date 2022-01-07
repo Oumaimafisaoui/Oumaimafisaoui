@@ -4,6 +4,7 @@
  <p>My name is "Oumaima", well it's a pretty long name, so people call me "Raven" instead !<br><p>
 
  [<img src="https://github.com/Oumaimafisaoui/Oumaimafisaoui/blob/c9702847bfd70f219939963bafba73410363a89c/Copie%20de%20Oumaima%20Fisaoui%20signature.gif"/>](https://github.com/Oumaimafisaoui/Oumaimafisaoui/blob/c9702847bfd70f219939963bafba73410363a89c/Copie%20de%20Oumaima%20Fisaoui%20signature.gif)
+  
  
  <!--![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Oumaimafisaoui&color=00cf00)!-->
  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -29,7 +30,8 @@
  
   ![Oumaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oumaimafisaoui&show_icons=true&theme=midnight-purple)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oumaimafisaoui&hide=Jupyter%20Notebook&layout=compact&theme=midnight-purple)](https://github.com/rahulbordoloi/github-readme-stats)
- 
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/oufisaou)](https://github.com/JaeSeoKim/badge42) 
   <h3>Some of My 2021 TODO list</h3>
  
 - [ ] Finish my Portfolio.
