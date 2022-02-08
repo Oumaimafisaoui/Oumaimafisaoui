@@ -32,19 +32,19 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oumaimafisaoui&hide=Jupyter%20Notebook&layout=compact&theme=midnight-purple)](https://github.com/rahulbordoloi/github-readme-stats)
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/oufisaou)](https://github.com/JaeSeoKim/badge42) 
-  <h3>Some of My 2021 TODO list</h3>
+  <h3>Some of My 2022 TODO list</h3>
  
 - [ ] Finish my Portfolio.
-- [ ] Algorithms and data structures Specialization
-- [ ] Launch my Blog site
-- [X] Finsih #100DaysOfCode
-- [X] Finish C Specialization
-- [X] Finish MERN Development course
-- [x] Finish Laravel / Vue.js Course
-- [ ] Finish CS50xHarvard 2021
-- [ ] Finish Google African developers mobile development track
+- [ ] Algorithms and data structures Specialization on Coursera / Udemy.
+- [ ] Launch my Blog site.
+- [X] Finsih #100DaysOfCode.
+- [X] Finish C Specialization.
+- [X] Finish MERN Development course.
+- [x] Finish Laravel / Vue.js Course.
+- [ ] Finish CS50xHarvard 2021.
 - [ ] Finish CodeCademy full stack engineering track.
 - [X] Finish Microsoft engenieering virtual internship program.
+- [X] Finish Security Armour virtual internship program.
 
 
  <h3>📫 How to reach me:</h3>
