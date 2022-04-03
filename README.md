@@ -16,7 +16,7 @@
  <h2>Welcome to my Github account where you will find the folowing topics (and more):</h2>  
     
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Push_Swap42&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Push_swap42)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=MiniTalk42&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Mini-Talk-42)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Mini-Talk-42&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Mini-Talk-42)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=My-go-to-books-in-programming-PDF-.&theme=midnight-purple)](https://github.com/Oumaimafisaoui/My-go-to-books-in-programming-PDF-.)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Uopeople-CS-Roadmap&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Uopeople-CS-Roadmap)
    
