@@ -17,8 +17,7 @@
     
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Push_Swap42&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Push_swap42)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Mini-Talk-42&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Mini-Talk-42)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=
-Get_next_line42&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Get_next_line42/settings)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Get_next_line42&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Get_next_line42/settings)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Uopeople-CS-Roadmap&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Uopeople-CS-Roadmap)
    
   <h2>Some of my favorite projects:</h2>  
