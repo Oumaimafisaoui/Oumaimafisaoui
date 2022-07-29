@@ -30,9 +30,6 @@
  
   ![Oumaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oumaimafisaoui&show_icons=true&theme=midnight-purple)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oumaimafisaoui&hide=Jupyter%20Notebook&layout=compact&theme=midnight-purple)](https://github.com/rahulbordoloi/github-readme-stats)
-
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/oufisaou)](https://github.com/JaeSeoKim/badge42) 
-  <h3>Some of My 2022 TODO list</h3>
  
 - [ ] Finish my Portfolio.
 - [ ] Algorithms and data structures Specialization on Coursera / Udemy.
