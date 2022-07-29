@@ -20,7 +20,7 @@
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Get_next_line42&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Get_next_line42/settings)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Uopeople-CS-Roadmap&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Uopeople-CS-Roadmap)
    
-  <h2>Some of my favorite projects:</h2>  
+  <h2>Some of my ondoing projects:</h2>  
     
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=CS50xHarvard-2021&theme=midnight-purple)](https://github.com/Oumaimafisaoui/CS50xHarvard-2021)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Personal-Portfolio-Soon-&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Personal-Portfolio-Soon-)
@@ -32,16 +32,10 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oumaimafisaoui&hide=Jupyter%20Notebook&layout=compact&theme=midnight-purple)](https://github.com/rahulbordoloi/github-readme-stats)
  
 - [ ] Finish my Portfolio.
-- [ ] Algorithms and data structures Specialization on Coursera / Udemy.
 - [ ] Launch my Blog site.
-- [X] Finsih #100DaysOfCode.
-- [X] Finish C Specialization.
-- [X] Finish MERN Development course.
-- [x] Finish Laravel / Vue.js Course.
-- [ ] Finish CS50xHarvard 2021.
+- [ ] Finsih #100DaysOfCode.
 - [ ] Finish CodeCademy full stack engineering track.
-- [X] Finish Microsoft engenieering virtual internship program.
-- [X] Finish Security Armour virtual internship program.
+- [ ] Finsih the DSA track in C++.
 
 
  <h3>📫 How to reach me:</h3>
