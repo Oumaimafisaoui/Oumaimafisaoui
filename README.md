@@ -23,7 +23,6 @@
    
   <h2>Some of my ondoing projects:</h2>  
     
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=CS50xHarvard-2021&theme=midnight-purple)](https://github.com/Oumaimafisaoui/CS50xHarvard-2021)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Personal-Portfolio-Soon-&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Personal-Portfolio-Soon-)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Personal-Blog-Soon&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Personal-Blog-Soon)  
 
