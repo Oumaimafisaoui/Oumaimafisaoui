@@ -45,6 +45,14 @@
  [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Oumaimafisaoui on Twitter" title="Follow Oumaimafisaoui on Twitter"/>](https://twitter.com/Oumaimafisaoui)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Oumaimafisaoui on Instagram" title="Follow Oumaimafisaoui on Instagram"/>](https://instagram.com/GuessCode)
 
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AhlyelAmine/count.svg" />
+</p>
+
  <h6>#No-life😂 </h6>
  
   ![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1026?logoColor=dark%26project=%26recentMS=0%26showProject=false)
