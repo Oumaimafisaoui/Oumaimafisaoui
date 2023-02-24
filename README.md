@@ -33,9 +33,8 @@
  
 - [ ] Finish my Portfolio.
 - [ ] Launch my Blog site.
-- [ ] Finsih #100DaysOfCode.
 - [ ] Finish CodeCademy full stack engineering track.
-- [ ] Finsih the DSA track in C++.
+- [ ] Finish 100 Problems on Leetcode.
 
 
  <h3>📫 How to reach me:</h3>
