@@ -54,6 +54,6 @@
 
  <h6>#No-life😂 </h6>
  
-  ![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1026?logoColor=dark%26project=%26recentMS=0%26showProject=false)
+  [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D1026%26project%3D%26in%3D0)](https://codetime.dev)
   
   
